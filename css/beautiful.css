@@ -58,3 +58,7 @@ span:first-child {
 .layout_post>#post {
   background: rgba(255,255,255,.9);
 }
+
+#toggle-sidebar {
+  bottom: 80px
+}
