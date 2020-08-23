@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/08/02/%E6%9C%80%E9%BD%90%E5%85%A8%E7%9A%84TyPro%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-08-20</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>http://yoursite.com/2020/07/20/LeetCode%E8%A7%A3%E9%A2%98/</loc>
-    
-    <lastmod>2020-08-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/08/02/%E6%9C%80%E9%BD%90%E5%85%A8%E7%9A%84TyPro%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2020-08-12</lastmod>
     
@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

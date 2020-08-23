@@ -64,7 +64,3 @@ span:first-child {
 .layout_post>#post {
   background: rgba(255,255,255,.9);
 }
-/*aplyer吸底，修改展示目录按钮位置*/
-#toggle-sidebar {
-  bottom: 80px
-}
